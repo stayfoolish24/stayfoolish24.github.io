@@ -1,0 +1,14 @@
+.hidden{
+    display: none;
+}
+
+#clock{
+    font-size: 45px;     
+}
+
+body {
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
